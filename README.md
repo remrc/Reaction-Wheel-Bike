@@ -9,7 +9,7 @@ Both bikes works with the same firmware. Difference only in design.
 
 For remote control I use Joy BT Commander.
 
-Balancing controller can be tunning remotely over bluetooth.
+Balancing controller can be tuned remotely over bluetooth.
 
 Example:
 
